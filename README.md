@@ -29,6 +29,7 @@ Python Selenium framework that opens IFM website, searches an item, and returns 
 - API Testing: ReadyAPI/SoapUI, REST, assertions, chaining, validations
 - CI/CD: Jenkins pipelines, Docker-based execution
 - QA: Integration testing, regression, exploratory, test design
+-Cloud stack:Kubernetes,AWS
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/ashika-sridhar-95a2b2232
