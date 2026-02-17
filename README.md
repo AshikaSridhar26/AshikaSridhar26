@@ -94,7 +94,7 @@ Python Selenium framework that opens IFM website, searches an item, and returns 
 
 ### **Cloud & DevOps**
 - AWS  
-- Kubernetes  
+- Kubernetes(OpenShift)  
 - Git  
 
 ---
