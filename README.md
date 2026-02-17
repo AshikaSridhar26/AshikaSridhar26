@@ -49,10 +49,6 @@ I bring strong hands‑on experience in **Web application testing**, **API valid
 - Response validation, headers, payload checks  
 - SQL‑based backend validation  
 
-### ♿ Accessibility Testing (WCAG Basics)
-- Alt text, keyboard navigation, color contrast  
-- Logging accessibility‑related defects  
-
 ---
 
 ## 🤖 Automation Projects (Featured)
