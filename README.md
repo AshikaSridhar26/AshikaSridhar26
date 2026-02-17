@@ -78,7 +78,7 @@ Python Selenium framework that opens IFM website, searches an item, and returns 
 
 ### **Automation**
 - Selenium (Java/Python)  
-- Playwright (basic)  
+- Playwright (Python)  
 - TestNG, JUnit  
 - CI/CD with Jenkins  
 - Docker-based execution  
