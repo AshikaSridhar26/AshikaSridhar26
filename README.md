@@ -6,7 +6,7 @@ Building reliable, scalable, and high‑quality testing solutions for Web, API, 
 
 
 🚀 About Me
-I’m a Quality Engineer with 6+ years of experience across manual testing, manual testing, test automation, test automation, API validationAPI validation, and Android and IOS Testing/mobile testing (Android & iOS). My work blends structured test design with practical automation, ensuring both depth and efficiency in QA coverage.
+I’m a Quality Engineer with 6+ years of experience across manual testing, test automation, API validation,mobile testing (Android & iOS). My work blends structured test design with practical automation, ensuring both depth and efficiency in QA coverage.
 **I enjoy:**
 Breaking things (intentionally)
 Designing clean, traceable test cases
